@@ -1,2 +1,2 @@
 another file 
-this is our conflict
+this conflict exists
